@@ -22,4 +22,4 @@ Titanic dataset (tested.csv) from Kaggle.
 - `README.md` – Project overview
 
 ## Summary
-Examined survival in relation to gender, class and age. Discovered trends such as greater survival in females and first class. Made visualisations to back findings.
+Examined survival in relation to gender, class and age. Discovered trends such as greater survival in children and first class. Made visualisations to back findings.
